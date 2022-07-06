@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+<o id="8" name="Testowy produkt" url="http://geesoft.pl/projects/subiekt/index.php/testowy-produkt/" sku="test" img="http://geesoft.pl/projects/subiekt/wp-content/uploads/2016/04/subiekt_gt_WooCommerce_oferta1-150x150.jpg">
+<desc><![CDATA[test testowy produkt produkt testowy  
+]]></desc>
+</o>
+<o id="11" name="Balsam do ciała nawilżający 200 ml" url="http://geesoft.pl/projects/subiekt/index.php/balsam-do-ciala-nawilzajacy-200-ml/" sku="BANAW200" img="">
+<desc><![CDATA[banaw200 balsam do ciała nawilżający 200 ml   
+]]></desc>
+</o>
+<o id="12" name="Balsam do ciała ultranawilżenie i dotlenienie 250" url="http://geesoft.pl/projects/subiekt/index.php/balsam-do-ciala-ultranawilzenie-i-dotlenienie-250/" sku="BANAWULTRA250" img="">
+<desc><![CDATA[banawultra250 balsam do ciała ultranawilżenie i dotlenienie 250   
+]]></desc>
+</o>
+</offers>

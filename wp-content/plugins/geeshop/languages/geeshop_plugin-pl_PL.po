@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: geeshop_plugin\n"
+"POT-Creation-Date: 2017-02-16 13:21+0100\n"
+"PO-Revision-Date: 2017-02-16 13:22+0100\n"
+"Last-Translator: GeeSoft IT Solutions <geesoftpl@gmail.com>\n"
+"Language-Team: Geesoft <biuro@geesoft.pl>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;__e\n"
+"X-Poedit-Basepath: d:\\_PROJEKTY\\WEB\\missha\\wp-content\\plugins\\geeshop\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ./addin\n"
+
+#: addin/appserver/appserver.class.php:45
+msgid "Subiekt - Ustawienia"
+msgstr ""
+
+#: addin/appserver/appserver.settings.class.php:28
+msgid "General"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:74
+msgid "Dane do Faktury"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:78
+msgid "Wystaw Fakturę VAT"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:86
+msgid "Pełna nazwa firmy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:87
+msgid "Podaj pełną nazwe firmy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:93
+msgid "Nazwa firmy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:94
+msgid "Podaj nazwe firmy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:100
+#: addin/checkout_fileds/checkout_fileds.class.php:477
+#: addin/checkout_fileds/checkout_fileds.class.php:532
+#: addin/checkout_fileds/checkout_fileds.class.php:617
+#: addin/checkout_fileds/checkout_fileds.class.php:651
+msgid "NIP"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:101
+msgid "Podaj NIP firmy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:107
+msgid "Ulica:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:108
+msgid "Podaj ulicę"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:114
+msgid "Numer:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:115
+msgid "Podaj numer"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:120
+msgid "Lokal:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:121
+msgid "Podaj lokal"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:127
+#: addin/checkout_fileds/checkout_fileds.class.php:536
+msgid "Kod pocztowy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:128
+msgid "Podaj Kod pocztowy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:134
+msgid "Miasto"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:135
+#: addin/checkout_fileds/checkout_fileds.class.php:185
+msgid "Podaj Miasto"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:141
+msgid "Telefon kontaktowy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:142
+msgid "Podaj telefon kontaktowy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:148
+msgid "ID klienta"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:149
+msgid "Podaj ID klienta"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:155
+msgid "ID klienta w systemie ERP"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:156
+msgid "Podaj ID klienta  w systemie ERP"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:175
+msgid "Podaj pełną nazwę firmy."
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:177
+msgid "Podaj numer NIP "
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:179
+msgid "Podaj adres (ulicę)"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:181
+msgid "Podaj adres (numer) "
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:183
+msgid "Podaj kod pocztowy"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:272
+msgid "Zakup z serwisu: "
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:301
+msgid "Wybierz"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:321
+msgid "Wysyłka"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:336
+msgid "Adres wysyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:384
+msgid "Nr przesyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:385
+msgid "Podaj nr przesyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:391
+msgid "Link do listu przewozowego"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:392
+msgid "Podaj link do listu przewozowego"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:411
+msgid "Link do śledzenia przesyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:412
+msgid "Podaj link do śledzenia przesyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:432
+msgid "Dane do faktury VAT:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:433
+msgid "Firma:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:435
+msgid "NIP:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:436
+msgid "Adres:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:441
+msgid "Telefon:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:443
+msgid "ID Klienta: "
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:445
+msgid "ID Klienta w systemie ERP: "
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:450
+msgid "Dokument sprzedaży:"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:458
+msgid "Link do dokumentu sprzedaży"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:459
+msgid "Podaj link do dokumentu sprzedaży"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:463
+msgid "Pobierz dokument sprzedaży"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:474
+#: addin/checkout_fileds/checkout_fileds.class.php:529
+#: addin/checkout_fileds/checkout_fileds.class.php:614
+#: addin/checkout_fileds/checkout_fileds.class.php:648
+msgid "Dane do faktury VAT"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:475
+#: addin/checkout_fileds/checkout_fileds.class.php:530
+#: addin/checkout_fileds/checkout_fileds.class.php:615
+#: addin/checkout_fileds/checkout_fileds.class.php:649
+msgid "Firma"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:478
+#: addin/checkout_fileds/checkout_fileds.class.php:533
+#: addin/checkout_fileds/checkout_fileds.class.php:618
+#: addin/checkout_fileds/checkout_fileds.class.php:652
+msgid "Adres"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:484
+#: addin/checkout_fileds/checkout_fileds.class.php:538
+msgid "Telefon"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:487
+#: addin/checkout_fileds/checkout_fileds.class.php:625
+#: addin/checkout_fileds/checkout_fileds.class.php:659
+msgid "ID Klienta"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:489
+#: addin/checkout_fileds/checkout_fileds.class.php:627
+#: addin/checkout_fileds/checkout_fileds.class.php:661
+msgid "ID Klienta w systemie ERP"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:531
+msgid "Pelna nazwa"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:534
+msgid "Nr budynku"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:535
+msgid "Nr lokalu"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:537
+msgid "Miejscowość"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:631
+#: addin/checkout_fileds/checkout_fileds.class.php:664
+msgid "Śledzenie przesyłki"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:631
+#: addin/checkout_fileds/checkout_fileds.class.php:664
+msgid "Kliknij aby śledzić przesyłkę"
+msgstr ""
+
+#: addin/checkout_fileds/checkout_fileds.class.php:632
+#: addin/checkout_fileds/checkout_fileds.class.php:665
+msgid ""
+"Jeżeli nie możesz uruchomić śledzenia przesyłki, uruchom przeglądarkę i "
+"wklej ten link"
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:35
+msgid "EAN"
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:38
+msgid "Enter the EAN value here."
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:48
+msgid "ERP ID"
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:51
+msgid "Enter the ERP product ID."
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:90 addin/gees/gees.admin.class.php:130
+msgid "Serwis"
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:135
+msgid "Fill in this field"
+msgstr ""
+
+#: addin/gees/gees.admin.class.php:136
+msgid "Serwis "
+msgstr ""
+
+#: addin/missha/missha.class.php:91 addin/missha/missha.class.php:94
+#: addin/missha/missha.class.php:98
+msgid "Nowość"
+msgstr ""
+
+#: addin/missha/missha.class.php:97 addin/missha/missha.class.php:115
+msgid "Nie"
+msgstr ""
+
+#: addin/missha/missha.class.php:109 addin/missha/missha.class.php:112
+#: addin/missha/missha.class.php:116
+msgid "Bestseller"
+msgstr ""
+
+#: addin/missha/missha.class.php:165 addin/missha/missha.class3.php:64
+msgid "Instrukacja obsługi"
+msgstr ""
+
+#: addin/missha/missha.class.php:168 addin/missha/missha.class3.php:67
+msgid "Podaj link do instrukcji obslugi."
+msgstr ""
+
+#: addin/missha/missha.class.php:178 addin/missha/missha.class.php:181
+#: addin/missha/missha.class3.php:77 addin/missha/missha.class3.php:80
+msgid "Producent"
+msgstr ""
+
+#: addin/missha/missha.class.php:184 addin/missha/missha.class3.php:83
+msgid "FERM"
+msgstr ""
+
+#: addin/missha/missha.class.php:185 addin/missha/missha.class3.php:84
+msgid "LAVOR"
+msgstr ""
+
+#: addin/missha/missha.class.php:196 addin/missha/missha.class3.php:95
+msgid "YouTube Video IDs"
+msgstr ""
+
+#: addin/missha/missha.class.php:199 addin/missha/missha.class3.php:98
+msgid "Enter the Youtube Video ID  value here."
+msgstr ""

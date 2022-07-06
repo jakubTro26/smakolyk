@@ -1,0 +1,41 @@
+/* Custom CSS for Allegro */
+.gees-field-class-vat .input-text, .gees-field-class-str-nr .input-text, .gees-field-class-str-nr2 .input-text{
+	width: 200px;
+}
+
+.gees-field-class-potcode .input-text{
+	width: 100px;
+}
+
+.gees-field-class-str-nr, .gees-field-class-str-nr2, .gees-field-class-city, .gees-field-class-potcode{
+	max-width: 45%;
+	width: 45%;
+	display: inline-block;
+}
+
+#gees_custom_checkout_field_hide{
+	display: none;
+}
+
+.10ka-button-generuj-div{
+    padding: 10px;
+    display: none;
+    background-color: rgb(199, 199, 199);
+    border-radius: 5px;
+    border: 1px solid #a7a7a7 !important;
+    box-shadow: #666 0px 0px 10px;
+    z-index: 10000;
+}
+
+.geeshop-erp-hidenew{
+	display: none; 
+}
+
+.geeshop-erp-readonly{
+	pointer-events: none; 
+}
+
+.geeshop-erp-show{
+	display: none; 
+}
+

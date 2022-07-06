@@ -1,0 +1,22 @@
+/*
+Name: GeeShop
+Theme URI: http://themes.geesoft.co/ExtraVagance/
+Description: Extravagance - WordPress Theme for Hair Salons
+Tags: three-columns, one-column, two-columns, four-columns, three-columns, responsive-layout, theme-options, translation-ready, left-sidebar, right-sidebar, custom-menu, custom-background, custom-header, custom-font
+Author: GeeSoft IT Solutions
+Author URI: http://geesoft.eu
+Version: 1.0.0
+*/
+@charset "utf-8";
+/* CSS Document */
+
+.embedded_youtube_video {
+  overflow: auto;
+  width: 100%;
+  height: 255px;
+	border: 0;
+}
+
+.product-embedded-youtube-player{
+	border: 0;
+}
